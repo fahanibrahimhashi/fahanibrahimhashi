@@ -6,4 +6,4 @@
 - 💬 Ask me about personal finance
 - 📫 How to reach me: via email on fahan.ibrahim@gmail.com or connect with me on LinkedIn (linkedin.com/in/fih)! 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: last year I went on a trip to the Arctic
+- ⚡ Fun fact: last year I travelled to the Arctic
