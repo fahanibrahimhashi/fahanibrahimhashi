@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm a Software Developer in training with Founders and Coders (FAC31)
+- 🔭 I'm a Software Developer in training with Founders and Coders 
 - 🌱 I’m currently learning front-end and back-end web development 
 - 👯 I’m looking to collaborate on projects relating to FinTech APIs or ways of using large language models to help people with their finances
 - 💬 Ask me about personal finance
